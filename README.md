@@ -2,7 +2,7 @@
 
 Frontend developer from Romania with a love for clean code and creative solutions.
 
-##🔧 Tech Stack
+## 🔧 Tech Stack
 
 - **JavaScript** 
 - **React**
