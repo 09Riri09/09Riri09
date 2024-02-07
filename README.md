@@ -1,8 +1,8 @@
--## Hi, I'm Rares 👋
+## Hi, I'm Rares 👋
 
 Frontend developer from Romania with a love for clean code and creative solutions.
 
--🔧 Tech Stack
+##🔧 Tech Stack
 
 - **JavaScript** 
 - **React**
@@ -11,7 +11,7 @@ Frontend developer from Romania with a love for clean code and creative solution
 
 ## 🚀 Projects (Work in progress)
 
-1. (https://github.com/09Riri09/Oficial-Personal-Portofolio) - A personal portofolio project where i want to showcase my work, come have a look :)
+1. www.raresdev.com - A personal portofolio project where i want to showcase my work, come have a look :)
 
 
 ## 🌐 Connect with Me
