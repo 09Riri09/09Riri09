@@ -1,4 +1,4 @@
--# Hi, I'm Rares 👋
+-## Hi, I'm Rares 👋
 
 Frontend developer from Romania with a love for clean code and creative solutions.
 
