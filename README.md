@@ -4,10 +4,10 @@ Frontend developer from Romania with a love for clean code and creative solution
 
 ## 🔧 Tech Stack
 
-- **JavaScript** 
+- **JavaScript**
+- **TypeScript** 
 - **React**
-- **HTML, Sass**
-- **Git**
+- **HTML, SCSS**
 
 ## 🚀 Projects (Work in progress)
 
